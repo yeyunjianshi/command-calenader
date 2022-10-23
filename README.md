@@ -3,10 +3,10 @@
 
 ## 安装
 ``` 
-npm install -g @yeyunjianshi/calendar
+npm install -g @yeyunjianshi/command-calendar
 ```
 
 ## 使用
 ```
-calendar
+command-calendar
 ```
